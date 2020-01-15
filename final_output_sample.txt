@@ -1,0 +1,145 @@
+[[0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0], [1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0], [0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0], [1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1], [0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1], [1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0], [0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1], [1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1], [1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1]]
+ route length 13
+ route path [(1, 14), (2, 13), (1, 12), (2, 11), (1, 10), (2, 9), (1, 8), (1, 7), (1, 6), (2, 5), (1, 4), (1, 3), (1, 2), (2, 1)]
+[[1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1], [1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0], [1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1], [1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1], [1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0], [0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0], [1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0], [0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0], [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0], [0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1], [0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0], [0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0], [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0], [0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1]]
+ route length 13
+ route path [(2, 14), (3, 13), (4, 12), (5, 11), (5, 10), (5, 9), (4, 8), (3, 7), (2, 6), (1, 5), (1, 4), (1, 3), (1, 2), (1, 1)]
+[[1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1], [0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1], [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0], [1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0], [0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1], [1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0], [1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0], [1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1], [1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1], [1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1], [0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0], [0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1], [1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0]]
+ route length 13
+ route path [(2, 14), (3, 13), (2, 12), (1, 11), (1, 10), (1, 9), (1, 8), (2, 7), (1, 6), (2, 5), (1, 4), (1, 3), (2, 2), (1, 1)]
+[[1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0], [1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1], [0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0], [0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0], [0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1], [0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1], [1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0], [0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0], [1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0], [1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1], [1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1], [1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1], [1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0]]
+ route length 13
+ route path [(1, 14), (1, 13), (1, 12), (1, 11), (2, 10), (2, 9), (3, 8), (4, 7), (5, 6), (5, 5), (6, 4), (7, 3), (8, 2), (8, 1)]
+[[1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0], [1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0], [0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0], [0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0], [1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0], [0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0], [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0], [1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1], [1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0], [0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1], [1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1], [0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0], [1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0], [1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0]]
+ route length 13
+ route path [(1, 14), (1, 13), (2, 12), (1, 11), (2, 10), (1, 9), (1, 8), (2, 7), (3, 6), (4, 5), (5, 4), (4, 3), (4, 2), (4, 1)]
+[[1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0], [1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1], [1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0], [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1], [1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1], [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1], [0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0], [1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1], [1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1], [0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0], [0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0], [1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1], [0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1], [0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1]]
+ route length 13
+ route path [(3, 14), (3, 13), (4, 12), (4, 11), (5, 10), (6, 9), (7, 8), (6, 7), (6, 6), (7, 5), (7, 4), (8, 3), (7, 2), (8, 1)]
+[[0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1], [1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0], [1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0], [1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0], [0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1], [1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0], [1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0], [1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1], [0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1], [1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0], [0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1], [1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1]]
+No path found
+<--------------Starting Test Cases verification-------------->
+Testing task2_img_ 1 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 1 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 1 .jpg is correct
+Testing task2_img_ 2 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 2 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 2 .jpg is correct
+Testing task2_img_ 3 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 3 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 3 .jpg is correct
+Testing task2_img_ 4 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 4 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 4 .jpg is correct
+Testing task2_img_ 5 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 5 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 5 .jpg is correct
+Testing task2_img_ 6 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 6 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 6 .jpg is correct
+Testing task2_img_ 7 .jpg
+Row  1 is correct
+Row  2 is correct
+Row  3 is correct
+Row  4 is correct
+Row  5 is correct
+Row  6 is correct
+Row  7 is correct
+Row  8 is correct
+Row  9 is correct
+Row  10 is correct
+Row  11 is correct
+Row  12 is correct
+Row  13 is correct
+Row  14 is correct
+Grid Cells for task2_img_ 7 .jpg verified successfully, Testing for Route length
+Route length for task2_img_ 7 .jpg is correct
+=======================================================================
+Grid Cells verification completed with  0 errors
+Route length verification completed with  0 errors
+Test passed successfully. 
+ You can upload your submissions now. Good Luck
