@@ -23,9 +23,9 @@ The black line is to be followed to reach specific points.
 The Hand was built using 3 [servo motors](https://www.robomart.com/servo-motors), attached to the [metal strips](https://rarecomponents.com/store/flat-rigid-metal-plates) with some springs which in turn was mounted on the FirebirdV.
 
 <p float="left">
-<img src="https://github.com/ceevaaa/Eyantra-2016/blob/master/Images/hand_detached.jpg" height="300" width="400" >  
-<img src="https://github.com/ceevaaa/Eyantra-2016/blob/master/Images/firebird_on_fire.jpg" width="400" >
-</p>  
+<img src="https://github.com/ceevaaa/Eyantra-2016/blob/master/Images/hand_detached.jpg" height="500" width="400" >  
+<img src="https://github.com/ceevaaa/Eyantra-2016/blob/master/Images/firebird_on_fire.jpg" height="500" width="400" >
+</p>   
 
 ## [Fire Bird V ATMEGA2560](http://www.nex-robotics.com/products/fire-bird-v-robots/fire-bird-v-atmega2560-robotic-research-platform.html)  
 FIRE BIRD V will help you get acquainted with the world of robotics and embedded systems. Thanks to its innovative architecture and adoption of the ‘Open Source Philosophy’ in its software and hardware design, you will be able to create and contribute too, complex applications that run on this platform, helping you acquire expertise as you spend more time with them. Fire Bird V is designed by NEX Robotics and Embedded Real Time Systems lab, CSE IIT Bombay.  
