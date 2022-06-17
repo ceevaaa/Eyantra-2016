@@ -1,6 +1,6 @@
 # [E-Yantra Robotics Competition 2016-17 from IIT-Bombay](https://www.e-yantra.org/)  
 e-Yantra Robotics Competition (eYRC) is a unique annual competition for undergraduate students in science and engineering colleges. Selected teams are given a robotic kit complete with accessories and video tutorials to help them learn basic concepts in embedded systems and microcontroller programming. Our team was
-1. [Ruturaj Shitole](https://github.com/rutu777)
+1. [Ruturaj Shitole](https://github.com/rutu-sh)
 2. [Anurag Pandey](https://github.com/asfd221)
 3. [Shiva Pundir](https://github.com/ceevaaa)  
 
